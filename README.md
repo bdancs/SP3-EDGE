@@ -23,7 +23,7 @@ Hellen Assis       RM98284
     2. Esses dados são passados para o sistema principal através do ESP32(WI-FI);
 
     3. Os números recebidos serão analizados e determinarão se é necessário ou não iniciar a operação para ventilação;
-        3.1. O sistema chega a conclusão a partir de um cógido dentro dele introduzido posteriormente;
+        3.1. O sistema chega a uma conclusão a partir de um cógido dentro dele, introduzido posteriormente;
 
     4. Caso a quantidade de gases inflamáveis no ambiente seja maior do que a norma considerada segura para esses espaços, as luzes e campainhas serão acionadas;
 
@@ -33,4 +33,5 @@ Hellen Assis       RM98284
 
 ## Demonstração do funcionamento
     Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32) :
-        https://www.tinkercad.com/things/9rcP97f9xNt
+
+    https://www.tinkercad.com/things/9rcP97f9xNt
