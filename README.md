@@ -21,3 +21,7 @@ Hellen Assis       RM98284
     4. Caso a quantidade de gases inflamáveis no ambiente seja maior do que a norma considerada segura para esses espaços, as luzes e campainhas serão acionadas;
     5. Assim, um operador/funcionário da unidade irá abrir a ventilção do galpão;
     6. O corpo de bombeiros será acionado para fazer uma inspeção e garantir que está seguro para voltar as operações ao normal.
+
+## Demonstração do funcionamento
+    Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32) :
+        https://www.tinkercad.com/things/9rcP97f9xNt
