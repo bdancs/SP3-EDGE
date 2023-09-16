@@ -1,20 +1,19 @@
 ## Participantes
-
-Ana Zerlin         RM98065
-Bianca Dancs       RM551645
-Gabriel Pimentel   RM99880
-Hellen Assis       RM98284
+- Ana Zerlin         RM98065
+- Bianca Dancs       RM551645
+- Gabriel Pimentel   RM99880
+- Hellen Assis       RM98284
 
 ## Recursos necessários para implantação
-    1. Sensor de Gás MQ-2, para verificar a presença de gases inflamáveis nos galpões;
+    - Sensor de Gás MQ-2, para verificar a presença de gases inflamáveis nos galpões;
 
-    2. ESP32, tornando a conexão por WI-FI entre o sistema operacional e o sensor possível;
+    - ESP32, tornando a conexão por WI-FI entre o sistema operacional e o sensor possível;
 
-    3. IoT, conecta com o ESP32 e recebe as informações dadas pelo medidor;
+    - IoT, conecta com o ESP32 e recebe as informações dadas pelo medidor;
 
-    4. Lâmpada ou led, alerta visual;
+    - Lâmpada ou led, alerta visual;
 
-    5. Campainha ou buzzer(maiores proporções do que de um protótipo), aviso sonoro.
+    - Campainha ou buzzer(maiores proporções do que de um protótipo), aviso sonoro.
 
 
 ## Protocolo de funcionamento
@@ -35,3 +34,5 @@ Hellen Assis       RM98284
     Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32) :
 
     https://www.tinkercad.com/things/9rcP97f9xNt
+
+## Vídeo sobre IoT :
