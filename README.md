@@ -26,3 +26,4 @@
 ## Demonstração do funcionamento
 [Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32)](https://www.tinkercad.com/things/9rcP97f9xNt)
 # Vídeo sobre IoT :
+[YOUTUBE](https://youtu.be/dfqplwQoEUk)
